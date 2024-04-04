@@ -35,7 +35,7 @@
 
  <br><br>   
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sidakvats&show_icons=true&locale=en&layout=compact" alt="sidakvats" /></p>
+<p style="background-color:black"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sidakvats&show_icons=true&locale=en&layout=compact" alt="sidakvats" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sidakvats&show_icons=true&locale=en" alt="sidakvats" /></p>
 
