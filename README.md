@@ -4,15 +4,18 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sidak+Vats!;" />
 </h1>
 
+<br>
+
 <h3 align="center">A passionate frontend developer from India</h3>
+<br>
 
-- 🔭 I’m currently working on [Reyansh Travels](https://reyanshtravel.netlify.app/)
++ 🔭 I’m currently working on [Reyansh Travels](https://reyanshtravel.netlify.app/)
 
-- 🌱 I’m currently learning **GSAP, Node Js**
++ 🌱 I’m currently learning **GSAP, Node Js**
 
-- 💬 Ask me about **React, Nextjs, Tailwind, Bootstrap**
++ 💬 Ask me about **React, Nextjs, Tailwind, Bootstrap**
 
-- 📫 How to reach me **sidakvats6499@gmail.com**
++ 📫 How to reach me **sidakvats6499@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
