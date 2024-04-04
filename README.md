@@ -37,7 +37,7 @@
 
  <br><br>
 
-<h2 align="center">⚡ Stats ⚡</h2> <br>
+<h2 align="center">⚡ Stats ⚡<br></h2> 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sidakvats&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sidakvats" /></p>
 
