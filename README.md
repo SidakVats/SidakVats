@@ -9,7 +9,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <br>
 
-- 🔭 I’m currently working on [Reyansh Travels](https://reyanshtravel.netlify.app/)
++ 🔭 I’m currently working on [Reyansh Travels](https://reyanshtravel.netlify.app/)
 
 + 🌱 I’m currently learning **GSAP, Node Js**
 
