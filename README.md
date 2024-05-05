@@ -11,7 +11,7 @@
 
 + 🔭 I’m currently working on [Reyansh Travels](https://reyanshtravel.netlify.app/)
 
-- 🌱 I’m currently learning **GSAP, Node Js**
++ 🌱 I’m currently learning **GSAP, Node Js**
 
 - 💬 Ask me about **React, Nextjs, Tailwind, Bootstrap**
 
