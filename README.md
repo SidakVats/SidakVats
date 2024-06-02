@@ -13,9 +13,9 @@
 
 + 🌱 I’m currently learning **GSAP, Node Js**
 
-- 💬 Ask me about **React, Nextjs, Tailwind, Bootstrap**
++ 💬 Ask me about **React, Nextjs, Tailwind, Bootstrap**
 
-- 📫 How to reach me **sidakvats6499@gmail.com**
++ 📫 How to reach me **sidakvats6499@gmail.com**
 
 <br>
 <hr>
