@@ -9,13 +9,13 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <br>
 
-+ 🔭 I’m currently working on [Reyansh Travels](https://reyanshtravel.netlify.app/)
+- 🔭 I’m currently working on [Reyansh Travels](https://reyanshtravel.netlify.app/)
 
-+ 🌱 I’m currently learning **GSAP, Node Js**
+- 🌱 I’m currently learning **GSAP, Node Js**
 
-+ 💬 Ask me about **React, Nextjs, Tailwind, Bootstrap**
+- 💬 Ask me about **React, Nextjs, Tailwind, Bootstrap**
 
-+ 📫 How to reach me **sidakvats6499@gmail.com**
+- 📫 How to reach me **sidakvats6499@gmail.com**
 
 <br>
 <hr>
